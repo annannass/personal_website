@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Incognito's resume
-email: incognito@maastrichtuniversity.nl
+title: Portfolio Anna-Lena Krause
+email: anna-lena.krause@student.maaastrichtuniversity.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -29,15 +29,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 portfolio:
   info:
     name:
-      firstname: Mr
-      lastname: Incognito
+      firstname: Anna-Lena
+      lastname: Krause
     location: Maastricht
-    phonenumber: (000) 000-0000
-    email: incognito@maastrichtuniversity.nl
+    phonenumber: 
+    email: anna-lena.krause@student.maastrichtuniversity.nl
   social:
     # twitter: your-username
-    facebook: MsvIncognito
-    github: msvincognito
+    facebook: 
+    github: annannass
     # linkedin: your-username
     # rss: 'your-website'
 
